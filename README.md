@@ -101,9 +101,9 @@ Pilih menu Run pada menu Pycharm untuk menjalankan hasil dari syntax yang kita b
 
 3. Latihan Ketiga
 
-![latihan3](https://user-images.githubusercontent.com/47779286/53253970-520e5a00-36ba-11e9-8b37-705deee4c9a5.jpg)
-
 Membuat program sederhana dengan perulangan: "program1".py
+
+![latihan3](https://user-images.githubusercontent.com/47779286/53253970-520e5a00-36ba-11e9-8b37-705deee4c9a5.jpg)
 
 1. Seorang pengusaha menginvestasikan uang untuk memulai usahanya dengan modal awal 100 juta,
 2. pada bulan pertama dan kedua belum mendapatkan laba.
@@ -161,4 +161,5 @@ Pilih menu Run pada menu Pycharm untuk menjalankan hasil dari syntax yang kita b
 SEKIAN TUGAS DARI SAYA
 
 Siti Saidah
+
 Terima Kasih.
