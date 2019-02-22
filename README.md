@@ -1,11 +1,11 @@
 # labpy03
 
 
-Tugas Ketiga
+#Tugas Ketiga
 
 Membuat Latihan Pertama, Kedua, dan Ketiga.
 
-1. Latihan Pertama
+#1. Latihan Pertama
 
 Menampilkan bilangan acak yang lebih kecil dari 0,5 serta menggunakan syntac perulangan dan random
 
@@ -56,7 +56,7 @@ memunculkan pernyataan bahwa hasil telah di temukan dan selesai
 
 Dan jalankan syntax yang sudah di buat dengan menu RUN yang terdapat pada aplikasi Pycharm
 
-2. Latihan Kedua
+#2. Latihan Kedua
 
 Mencari bilangan dan menampilkan bilangan terbesar dari (n) sebuah data yang diinputkan.
 Dan Memasukkan angka 0 untuk berhenti.
@@ -99,7 +99,7 @@ dan perintah ini untuk menampilkan hasil bilangan yang dimasukan dan terbesar
 
 Pilih menu Run pada menu Pycharm untuk menjalankan hasil dari syntax yang kita buat
 
-3. Latihan Ketiga
+#3. Latihan Ketiga
 
 Membuat program sederhana dengan perulangan: "program1".py
 
@@ -158,8 +158,7 @@ menampilkan hasil jumlahan variabel atau hasil laba
 
 Pilih menu Run pada menu Pycharm untuk menjalankan hasil dari syntax yang kita buat.
 
-SEKIAN TUGAS DARI SAYA
+#SEKIAN TUGAS DARI SAYA
 
-Siti Saidah
-
-Terima Kasih.
+#Siti Saidah
+#Terima Kasih.
