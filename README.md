@@ -5,9 +5,9 @@
 
 # Membuat Latihan Pertama, Kedua, dan Ketiga.
 
-# 1. Latihan Pertama
+1. Latihan Pertama
 
-# Menampilkan bilangan acak yang lebih kecil dari 0,5 serta menggunakan syntac perulangan dan random
+Menampilkan bilangan acak yang lebih kecil dari 0,5 serta menggunakan syntac perulangan dan random
 
 ![latihan1](https://user-images.githubusercontent.com/47779286/53253967-50dd2d00-36ba-11e9-98be-e8d7b1cd50c7.jpg)
 
@@ -58,8 +58,8 @@ Dan jalankan syntax yang sudah di buat dengan menu RUN yang terdapat pada aplika
 
 # 2. Latihan Kedua
 
-# Mencari bilangan dan menampilkan bilangan terbesar dari (n) sebuah data yang diinputkan.
-# Dan Memasukkan angka 0 untuk berhenti.
+Mencari bilangan dan menampilkan bilangan terbesar dari (n) sebuah data yang diinputkan.
+Dan Memasukkan angka 0 untuk berhenti.
 
 ![latihan2](https://user-images.githubusercontent.com/47779286/53253969-5175c380-36ba-11e9-9f92-542fce1c7d3d.jpg)
 
@@ -101,7 +101,7 @@ Pilih menu Run pada menu Pycharm untuk menjalankan hasil dari syntax yang kita b
 
 # 3. Latihan Ketiga
 
-# Membuat program sederhana dengan perulangan: "program1".py
+Membuat program sederhana dengan perulangan: "program1".py
 
 ![latihan3](https://user-images.githubusercontent.com/47779286/53253970-520e5a00-36ba-11e9-8b37-705deee4c9a5.jpg)
 
