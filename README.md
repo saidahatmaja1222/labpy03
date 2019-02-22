@@ -57,6 +57,7 @@ memunculkan pernyataan bahwa hasil telah di temukan dan selesai
 Dan jalankan syntax yang sudah di buat dengan menu RUN yang terdapat pada aplikasi Pycharm
 
 2. Latihan Kedua
+
 Mencari bilangan dan menampilkan bilangan terbesar dari (n) sebuah data yang diinputkan.
 Dan Memasukkan angka 0 untuk berhenti.
 
